@@ -47,6 +47,7 @@ These public pages help people find Zanta AI across company, profile, and review
 - [Zanta AI Bio Sites profile](https://bio.site/zantaai)
 - [Zanta AI reviews on ProvenExpert](https://www.provenexpert.com/en-us/zanta/)
 - [Zanta AI reviews on Trustpilot](https://www.trustpilot.com/review/zanta.ai)
+- [Zanta AI reviews on G2](https://www.g2.com/products/zanta-ai/reviews)
 
 ## About This Repository
 
