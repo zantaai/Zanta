@@ -56,6 +56,7 @@ These writeups describe practical Zanta AI workflows for creators, marketers, an
 
 - [How to build a fast AI image workflow with Zanta AI and Nano Banana](https://teletype.in/@zantaai/Vr1I0pOIbFH)
 - [Designing a browser-based AI media workflow](https://velog.io/@zantaai/Designing-a-Browser-Based-AI-Media-Workflow)
+- [A practical AI image workflow for product visuals and short videos](https://medium.com/@trytrydotcc/a-practical-ai-image-workflow-for-product-visuals-and-short-videos-7b15c25fffdc)
 
 ## About This Repository
 
