@@ -49,6 +49,8 @@ These public pages help people find Zanta AI across company, profile, and review
 - [Zanta AI on SaaSHub](https://www.saashub.com/zanta-ai)
 - [Zanta AI reviews on Trustpilot](https://www.trustpilot.com/review/zanta.ai)
 - [Zanta AI reviews on G2](https://www.g2.com/products/zanta-ai/reviews)
+- [Zanta AI on Cal.com](https://cal.com/zantaai)
+- [AI Image Generator booking page on Cal.com](https://cal.com/zantaai/ai-image-generator)
 
 ## Articles and Workflow Notes
 
@@ -57,6 +59,7 @@ These writeups describe practical Zanta AI workflows for creators, marketers, an
 - [How to build a fast AI image workflow with Zanta AI and Nano Banana](https://teletype.in/@zantaai/Vr1I0pOIbFH)
 - [Designing a browser-based AI media workflow](https://velog.io/@zantaai/Designing-a-Browser-Based-AI-Media-Workflow)
 - [A practical AI image workflow for product visuals and short videos](https://medium.com/@trytrydotcc/a-practical-ai-image-workflow-for-product-visuals-and-short-videos-7b15c25fffdc)
+- [A practical AI image workflow for product visuals and short videos on DEV Community](https://dev.to/bobc_zanta/a-practical-ai-image-workflow-for-product-visuals-and-short-videos-5bk8)
 
 ## About This Repository
 
