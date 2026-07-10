@@ -60,6 +60,8 @@ These writeups describe practical Zanta AI workflows for creators, marketers, an
 - [Designing a browser-based AI media workflow](https://velog.io/@zantaai/Designing-a-Browser-Based-AI-Media-Workflow)
 - [A practical AI image workflow for product visuals and short videos](https://medium.com/@trytrydotcc/a-practical-ai-image-workflow-for-product-visuals-and-short-videos-7b15c25fffdc)
 - [A practical AI image workflow for product visuals and short videos on DEV Community](https://dev.to/bobc_zanta/a-practical-ai-image-workflow-for-product-visuals-and-short-videos-5bk8)
+- [A practical AI image workflow for product visuals on Substack](https://trytrycc.substack.com/p/a-practical-ai-image-workflow-for)
+- [A practical AI image workflow for product visuals on WordPress](https://zantaaistudio.wordpress.com/2026/07/10/a-practical-ai-image-workflow-for-product-visuals/)
 
 ## About This Repository
 
